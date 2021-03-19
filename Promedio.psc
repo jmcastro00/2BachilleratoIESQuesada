@@ -8,7 +8,7 @@ Algoritmo promedio
 	Para i<-1 Hasta n+1 Con Paso 1 Hacer
 		Escribir "Ingrese el dato ", i, ":";
 		Leer dato;
-		acum = acum+dato;
+		acum = acum+dato
 		
 	Fin Para
 	
